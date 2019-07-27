@@ -1,4 +1,4 @@
-#MIN XOR VAL
+//MIN XOR VAL
 
 int Solution::findMinXor(vector<int> &numbers) {
     sort(numbers.begin(), numbers.end());
